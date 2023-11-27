@@ -17,4 +17,5 @@ def flip_coin():
             print("Unlucky it's heads!")
     else:
         print("Please put in heads or tails")
-    
+
+flip_coin()
