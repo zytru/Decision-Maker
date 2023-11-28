@@ -1,4 +1,4 @@
-# Python-Projects
-A collection of small Python projects that I am working on as a beginnner.
+# Decision-Maker
+A random choice program to help when I need to make a decision
 
 Created flip_coin.py to get familiar with the framework that will be used to expand upon the project.
